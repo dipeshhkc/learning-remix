@@ -1,0 +1,6 @@
+.heading {
+    @apply text-xl;
+}
+.subHeading {
+    @apply text-xs text-blue-300;
+}
